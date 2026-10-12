@@ -1,0 +1,284 @@
+{
+  "parity": {
+    "masks": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        1.0
+      ]
+    ],
+    "even": [
+      0.25,
+      0.0,
+      0.0,
+      0.25,
+      0.0,
+      0.25,
+      0.25,
+      0.0
+    ],
+    "odd": [
+      0.0,
+      0.25,
+      0.25,
+      0.0,
+      0.25,
+      0.0,
+      0.0,
+      0.25
+    ],
+    "independent": [
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125
+    ],
+    "risk_even": 0.0,
+    "risk_odd": 0.125,
+    "risk_independent": 0.0625
+  },
+  "frontier": [
+    {
+      "order": 0,
+      "alpha": 0.025,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.05,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.075,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.1,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.125,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.15,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 0,
+      "alpha": 0.2,
+      "minimum_coverage": -0.0,
+      "worst_risk": -0.0,
+      "all_failed_acceptance": 0.0
+    },
+    {
+      "order": 1,
+      "alpha": 0.025,
+      "minimum_coverage": 0.5263157894736843,
+      "worst_risk": 0.025,
+      "all_failed_acceptance": 0.052631578947368425
+    },
+    {
+      "order": 1,
+      "alpha": 0.05,
+      "minimum_coverage": 0.5555555555555556,
+      "worst_risk": 0.05000000000000001,
+      "all_failed_acceptance": 0.11111111111111112
+    },
+    {
+      "order": 1,
+      "alpha": 0.075,
+      "minimum_coverage": 0.5882352941176471,
+      "worst_risk": 0.075,
+      "all_failed_acceptance": 0.17647058823529413
+    },
+    {
+      "order": 1,
+      "alpha": 0.1,
+      "minimum_coverage": 0.625,
+      "worst_risk": 0.10000000000000002,
+      "all_failed_acceptance": 0.25
+    },
+    {
+      "order": 1,
+      "alpha": 0.125,
+      "minimum_coverage": 0.6666666666666666,
+      "worst_risk": 0.12500000000000003,
+      "all_failed_acceptance": 0.3333333333333333
+    },
+    {
+      "order": 1,
+      "alpha": 0.15,
+      "minimum_coverage": 0.7142857142857143,
+      "worst_risk": 0.14999999999999997,
+      "all_failed_acceptance": 0.4285714285714286
+    },
+    {
+      "order": 1,
+      "alpha": 0.2,
+      "minimum_coverage": 0.8333333333333334,
+      "worst_risk": 0.2,
+      "all_failed_acceptance": 0.6666666666666667
+    },
+    {
+      "order": 2,
+      "alpha": 0.025,
+      "minimum_coverage": 0.7894736842105263,
+      "worst_risk": 0.025,
+      "all_failed_acceptance": 0.15789473684210528
+    },
+    {
+      "order": 2,
+      "alpha": 0.05,
+      "minimum_coverage": 0.8333333333333334,
+      "worst_risk": 0.05,
+      "all_failed_acceptance": 0.33333333333333337
+    },
+    {
+      "order": 2,
+      "alpha": 0.075,
+      "minimum_coverage": 0.8823529411764706,
+      "worst_risk": 0.075,
+      "all_failed_acceptance": 0.5294117647058824
+    },
+    {
+      "order": 2,
+      "alpha": 0.1,
+      "minimum_coverage": 0.9375,
+      "worst_risk": 0.10000000000000002,
+      "all_failed_acceptance": 0.7500000000000001
+    },
+    {
+      "order": 2,
+      "alpha": 0.125,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.125,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 2,
+      "alpha": 0.15,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.125,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 2,
+      "alpha": 0.2,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.125,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 3,
+      "alpha": 0.025,
+      "minimum_coverage": 0.9210526315789473,
+      "worst_risk": 0.02499999999999998,
+      "all_failed_acceptance": 0.368421052631579
+    },
+    {
+      "order": 3,
+      "alpha": 0.05,
+      "minimum_coverage": 0.9722222222222222,
+      "worst_risk": 0.05000000000000001,
+      "all_failed_acceptance": 0.7777777777777778
+    },
+    {
+      "order": 3,
+      "alpha": 0.075,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.0625,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 3,
+      "alpha": 0.1,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.0625,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 3,
+      "alpha": 0.125,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.0625,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 3,
+      "alpha": 0.15,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.0625,
+      "all_failed_acceptance": 1.0
+    },
+    {
+      "order": 3,
+      "alpha": 0.2,
+      "minimum_coverage": 1.0,
+      "worst_risk": 0.0625,
+      "all_failed_acceptance": 1.0
+    }
+  ],
+  "label_dependent": {
+    "failure_probability": 0.5,
+    "all_failed_acceptance": 0.25,
+    "mcar_risk": 0.1,
+    "label_dependent_risk": 0.2,
+    "coverage": 0.625
+  }
+}

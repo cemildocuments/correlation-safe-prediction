@@ -1,0 +1,56 @@
+{
+  "letter": {
+    "source_url": "https://archive.ics.uci.edu/static/public/59/letter+recognition.zip",
+    "doi": "10.24432/C5ZP40",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "3b5f07a334697b6cace4fbae22940393a18fee596e73f68d97ce5973d52dc60f",
+    "title": "Letter Recognition",
+    "creators": "Slate, David"
+  },
+  "pendigits": {
+    "source_url": "https://archive.ics.uci.edu/static/public/81/pen+based+recognition+of+handwritten+digits.zip",
+    "doi": "10.24432/C5MG6K",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "1e02bea023613c2b11c9492f6f34caf975420455934f3527d270cee9a1f03b64",
+    "title": "Pen-Based Recognition of Handwritten Digits",
+    "creators": "Alpaydin, E. and Alimoglu, Fevzi"
+  },
+  "drybean": {
+    "source_url": "https://archive.ics.uci.edu/static/public/602/dry+bean+dataset.zip",
+    "doi": "10.24432/C50S4B",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "0a64eff5be87f48c3dbbfc0a12a56c5d5b5167ef8e61cd45d69b3e7c7130c06f",
+    "title": "Dry Bean",
+    "creators": "No named creator in the prescribed repository citation"
+  },
+  "spambase": {
+    "source_url": "https://archive.ics.uci.edu/static/public/94/spambase.zip",
+    "doi": "10.24432/C53G6X",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "813ac1df8effac70463c09c9c4b11e8803eefcab54771af66150852bcdcd1636",
+    "title": "Spambase",
+    "creators": "Hopkins, Mark and Reeber, Erik and Forman, George and Suermondt, Jaap"
+  },
+  "satellite": {
+    "source_url": "https://archive.ics.uci.edu/static/public/146/statlog+landsat+satellite.zip",
+    "doi": "10.24432/C55887",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "7c54e0e11c872a1b0b647da370d596dcb06746159cce4121d92ccd70b7d7ce3c",
+    "title": "Statlog (Landsat Satellite)",
+    "creators": "Ashwin Srinivasan"
+  },
+  "waveform": {
+    "source_url": "https://archive.ics.uci.edu/static/public/107/waveform+database+generator+version+1.zip",
+    "doi": "10.24432/C5CS3C",
+    "license": "CC-BY-4.0",
+    "retrieved": "2026-10-12",
+    "sha256": "c4a923f66c4e060c9da63a5394b4d65fa2383b078bd3b435437037550b3080d4",
+    "title": "Waveform Database Generator (Version 1)",
+    "creators": "Breiman, L. and Stone, C. J."
+  }
+}

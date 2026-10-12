@@ -1,0 +1,16 @@
+{
+  "numpy": "1.26.3",
+  "scipy": "1.11.4",
+  "pandas": "2.2.1",
+  "scikit-learn": "1.4.0",
+  "torch": "2.4.1",
+  "openpyxl": "3.1.2",
+  "threadpoolctl": "3.2.0",
+  "python": "3.12.1",
+  "os": "Darwin",
+  "machine": "arm64",
+  "cpu_workers": 8,
+  "neural_workers": 1,
+  "gpu_backend": "MPS",
+  "memory_gb": 18
+}
